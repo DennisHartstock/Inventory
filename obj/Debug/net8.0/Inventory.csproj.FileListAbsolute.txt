@@ -1,0 +1,14 @@
+D:\c#\Inventory\bin\Debug\net8.0\Inventory.exe
+D:\c#\Inventory\bin\Debug\net8.0\Inventory.deps.json
+D:\c#\Inventory\bin\Debug\net8.0\Inventory.runtimeconfig.json
+D:\c#\Inventory\bin\Debug\net8.0\Inventory.dll
+D:\c#\Inventory\bin\Debug\net8.0\Inventory.pdb
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.dll
+D:\c#\Inventory\obj\Debug\net8.0\refint\Inventory.dll
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.pdb
+D:\c#\Inventory\obj\Debug\net8.0\Inventory.genruntimeconfig.cache
+D:\c#\Inventory\obj\Debug\net8.0\ref\Inventory.dll
